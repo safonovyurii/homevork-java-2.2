@@ -18,6 +18,8 @@ public class Main {
 
         System.out.println("Итоговый баланс:" + result);
 
+        System.out.println("Колличество начисленных бонусов:" + bonus);
+
 
     }
 }
